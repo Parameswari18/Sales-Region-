@@ -1,13 +1,18 @@
 # Sales-Region-
 
-1.Overview
+**Overview
+
+
 The Regional Sales Analysis project uses Excel, Python, and Power BI to analyze and visualize sales performance across different regions. The goal is to identify trends, top-performing areas, and improvement opportunities. The workflow starts with raw sales data in Excel, processes and cleans it using Python, and finally visualizes it through interactive Power BI dashboards.
 
+**Problem Statement
 
-2.Problem Statement
+
 Businesses often struggle to gain clear insights into sales performance across different regions due to scattered or unprocessed data. This project addresses the challenge by integrating data processing and visualization tools, enabling decision-makers to quickly identify trends, track performance, and improve business strategies.
 
-3. Objectives
+**Objectives
+
+
 Consolidate and clean sales data from multiple sources.
 
 
