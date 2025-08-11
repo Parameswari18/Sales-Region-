@@ -7,28 +7,33 @@ The Regional Sales Analysis project uses Excel, Python, and Power BI to analyze 
 2.Problem Statement
 Businesses often struggle to gain clear insights into sales performance across different regions due to scattered or unprocessed data. This project addresses the challenge by integrating data processing and visualization tools, enabling decision-makers to quickly identify trends, track performance, and improve business strategies.
 
-
 3. Objectives
 Consolidate and clean sales data from multiple sources.
+
+
 Analyze sales metrics like revenue, cost, and profit by region.
+
+
 Create interactive visualizations for decision-making.
+
+
 Identify high-performing and low-performing regions.  
 
 
-4. Data Description
+5. Data Description
 File Name: sales datas.xlsx
 Key Columns: Order No, Order Date, Region, State, Product, Quantity, Unit Price, Revenue, Cost, Profit, Payment Mode.
 Data Period: Covers multiple months of sales transactions.
 Format: Tabular Excel dataset suitable for Python processing and Power BI modeling.
 
 
-5. Methodology
+6. Methodology
 Data Preparation (Excel) – Raw sales data compiled into a structured format.
 Data Cleaning & Analysis (Python) – Used Pandas, NumPy for cleaning and generating summaries.
 Visualization (Power BI) – Interactive dashboard built in sales.pbix to display:
 
  
- 6. Tools & Technologies Used
+ 7. Tools & Technologies Used
 Excel – Data storage and basic preprocessing
 Python – Data cleaning, aggregation, and analysis
 Power BI – Interactive dashboards and visual analytics
