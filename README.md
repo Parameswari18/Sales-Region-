@@ -133,8 +133,20 @@ From the analysis of sales datas.xlsx and visualizations in sales.pbix, the foll
 Focus marketing efforts in high-performing regions to maximize profit.
 
 
+
+
+
 Improve supply chain efficiency in low-performing areas.
 
 
+
 Monitor seasonal demand to optimize stock levels.
+
+
+Dash Board
+
+
+
+
+<img width="994" height="562" alt="dashboard" src="https://github.com/user-attachments/assets/5a191a40-99cc-4844-b3b7-ce59a99cd814" />
 
